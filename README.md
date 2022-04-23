@@ -9,12 +9,6 @@ Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empre
 O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?
 
 
-## 2. Premissas
-- Imóveis que deveriam ser comprados => imóveis com valor menor que a mediana da região, condição >=3 e nota >= 8.
-- Mehor época do ano para vender => Quando o mercado está aquecido, ou seja, a média de preços está maior.
-- Região e época do ano são fatores determinantes no preço.
-
-
 ## 3. Planejamento
 - Olhar a comparação entre Clientes e Cancelados em cada uma das colunas da nossa base de dados, para ver se essa informação traz algum insight.
 
